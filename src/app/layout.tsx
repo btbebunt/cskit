@@ -26,6 +26,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <head>
         <meta httpEquiv="Content-Language" content="en, ko" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
       </head>
       <body className="antialiased font-sans">
         <ThemeProvider>
